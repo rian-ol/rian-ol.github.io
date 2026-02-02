@@ -9,7 +9,8 @@ let texts = [
     "please?",
     "bro please",
     "PLEASE",
-    "LAST CHANCE PLEASEEEEE"
+    "LAST CHANCE PLEASEEEEE",
+    "oh"
 ]
 
 function change(){
