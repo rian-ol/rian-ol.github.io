@@ -35,6 +35,7 @@ function change(){
     count +=1;
     if(count == 5){
         window.location.href = "./html/oh.html"
+        noButt.remove();
     }
 }
 
